@@ -1,0 +1,31 @@
+Name: Chanki Kong
+
+Intro to Computer Science 420-121-VA sect.00004
+
+
+Task 3: Reflections on the movie Revolution OS
+
+1. What was the point made by Bill gates in his Open Letter to Hobbyists?
+
+Answer: We need a good software and its owner who understands the programming 
+        for a hobby computer to not be wasted. Most of hobbyists must be aware
+        that most of you steal your software.
+
+
+2. What did Richard Stallman describe as an ethical dilemma?
+   
+Answer: Stallman states that free software is "important for quality of life 
+        and the good of the society". The developers of the system didn't share
+        the program with other people, but instead they tried to control the 
+        users. In order to use it, you needed to sign a contract to assure that
+        it won't be shared with anybody else. However, he didn't want it to be   
+        this way and didn't want to feel like betraying the rest of the world.
+
+
+3. What are the freedoms that enable people to form a community?
+
+Answer: The freedom to make changes if you want to hire someone or to hire someone 
+        for them to make changes for you. If you're using a software for your own
+        business, to redistribute the copies, to share with other people and as well
+        as to make some improvements before publishing them. All of these things are
+        for other people to get access to the program and benefit from it.
